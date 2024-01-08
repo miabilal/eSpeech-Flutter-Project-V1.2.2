@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.947" height="42" viewBox="0 0 38.947 42">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.009" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#05a6e8"/>
+      <stop offset="1" stop-color="#003e64"/>
+    </linearGradient>
+    <filter id="Path_1" x="0" y="4.128" width="21.768" height="30.982" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="5.3" y="4.128" width="33.647" height="37.872" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="3.933" y="9.583" width="30.903" height="26.249" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4" x="3.933" y="0" width="30.903" height="25.609" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="speech" transform="translate(9 6)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0 4.128)">
+      <g id="Group_3" data-name="Group 3">
+        <g transform="matrix(1, 0, 0, 1, -9, -10.13)" filter="url(#Path_1)">
+          <path id="Path_1-2" data-name="Path 1" d="M101.148-608.016a8.125,8.125,0,0,1-1.554-4.791v-4.573a1.115,1.115,0,0,0-1.1-1.121,1.083,1.083,0,0,0-.745.318,1.078,1.078,0,0,0-.318.766v4.61a10.3,10.3,0,0,0,2.94,7.217.241.241,0,0,0,.341,0,.24.24,0,0,0,.068-.126c.125-.634.348-1.771.415-2.115A.234.234,0,0,0,101.148-608.016Z" transform="translate(-88.43 628.63)" fill="url(#linear-gradient)"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -9, -10.13)" filter="url(#Path_2)">
+          <path id="Path_2-2" data-name="Path 2" d="M157.1-617.381v4.572a10.331,10.331,0,0,1-9.533,10.3v1.712h1.723a1.084,1.084,0,0,1,1.083,1.083,1.078,1.078,0,0,1-.318.766,1.078,1.078,0,0,1-.766.318h-5.317a1.083,1.083,0,0,1-1.083-1.083h0a1.078,1.078,0,0,1,.318-.766,1.078,1.078,0,0,1,.766-.318H145.4v-1.738a10.229,10.229,0,0,1-3.822-1.18.241.241,0,0,1-.094-.328.241.241,0,0,1,.114-.1l2.091-.921a.24.24,0,0,1,.173-.007,8.156,8.156,0,0,0,2.62.43h.288a8.163,8.163,0,0,0,8.163-8.163v-4.61a1.078,1.078,0,0,1,.318-.766A1.083,1.083,0,0,1,156-618.5,1.115,1.115,0,0,1,157.1-617.381Z" transform="translate(-127.16 628.63)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_3)">
+      <path id="Path_3-2" data-name="Path 3" d="M143-573.192v.072a6.173,6.173,0,0,1-6.173,6.173h-.556a6.234,6.234,0,0,1-.881-.063l-4.638,2.043a.27.27,0,0,1-.356-.138.271.271,0,0,1-.018-.162l.845-4.3a6.341,6.341,0,0,1-1.124-3.618v-.007h2.432a.355.355,0,0,1,.292.149,4.062,4.062,0,0,0,3.333,1.737h.5a4.062,4.062,0,0,0,3.432-1.885Z" transform="translate(-117.16 588.77)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_4)">
+      <path id="Path_4-2" data-name="Path 4" d="M143-646.619v1.436H130.1v-1.436c0-.182.007-.361.023-.538h10.542a4.066,4.066,0,0,0-4.006-3.372h-.5a4.062,4.062,0,0,0-3.069,1.4H130.63a6.173,6.173,0,0,1,5.64-3.661h.556a6.175,6.175,0,0,1,6.15,5.635C142.993-646.98,143-646.8,143-646.619Z" transform="translate(-117.16 658.79)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,171 @@
+class StringsRes {
+  static String mainappname = "eSpeech";
+  static String introtitle1 = "Text to Speech With Multiple Languages";
+  static String introdesc1 =
+      "Record all your scripts in voice with 80+ languages.";
+
+  static String introtitle2 = "Create Realistic Voices For Any Text";
+  static String introdesc2 =
+      "Text in Seconds by using over 300+ Realistic Voices";
+
+  static String introtitle3 = "Customizable Text-talker Voices";
+  static String introdesc3 =
+      "Create a unique voice that reflects your brand’s identity.";
+  static String enterValidEmail = "Enter Valid Email Address";
+  static String enterValidMobile = "Enter Valid Mobile Number";
+  static String lbllogin = "Login";
+  static String logout = "Logout";
+  static String emailaddress = "Email Address";
+  static String password = "Password";
+  static String enterpassword = "Enter Password";
+  static String forgotpassword = "Forgot Password ?";
+  static String lblcancel = "Cancel";
+  static String recoverpassword = "Recover Password";
+  static String lblchecknetwork = 'Check Internet Connection';
+  static String donthvac = "Don't have an account?  ";
+  static String alreadyhvac = "Already have account?  ";
+  static String register = "Register";
+  static String confirmpassword = "Confirm Password";
+  static String confirmpswwarning = 'Confirm Password Not Match';
+  static String iAccept = "  I Accept ";
+  static String termsAndCondition = "Terms of Service";
+  static String lblAND = "and";
+  static String privacyPolicy = "Privacy Policy";
+  static String aboutus = "About us";
+  static String createaccount = "Sign Up";
+  static String acceptTermcondition = "Accept Terms and Condition";
+  static String termsandcondition = "Terms and Conditions";
+  static String firstname = "First Name";
+  static String lastname = "Last Name";
+  static String enterfname = "Enter First Name";
+  static String enterlname = "Enter Last Name";
+  static String phonenumber = "Phone Number";
+  static String texttospeech = "Text to Speech";
+  static String plans = "Plans";
+  static String selectlanguage = "Select Language";
+  static String selectvoice = "Select Voice";
+  static String listenselectedvoice = "Listen selected voice";
+  static String profile = "Profile";
+  static String lblupdate = "Update";
+  static String changePassword = "Change Password";
+  static String enterNewPassword = "Enter New Password";
+  static String enterOldPassword = "Enter Old Password";
+  static String change = "Change";
+  static String noDataFound = "No Data Found";
+  static String enterConfirmPassword = "Enter Confirm Password";
+  static String confirmPswNotMatch = "Password no Matched";
+  static String passwordLengthWarning =
+      "Password Length must be greather than or equal to 8 Characters";
+  static String activateplanforsynthesize =
+      "Activate your plan to Synthesize Text";
+  static String speechtitle = "Speech Title";
+  static String text = "Text";
+  static String textinfo = "Write your text here..";
+  static String entertitle = "Enter Title";
+  static String enterttext = "Enter Text";
+  static String synthesizetext = "Synthesize Text";
+
+  static String planOverallchr = "Overall Characters";
+  static String planGooglechr = "Google Clould Platform Characters";
+  static String planAmazonchr = "Amazon Polly Characters";
+  static String planIbmchr = "IBM Whatson Characters";
+  static String planMicrosoftchr = "Microsoft Azure Characters";
+  static String lblsubscribe = "Subscribe";
+  static String selectpaytype = "Select Payment Type";
+  static String lblstripe = "Stripe";
+  static String lblrazorpay = "Razorpay";
+  static String lblpaystack = "Paystack";
+  static String lblpaytm = "Paytm";
+  static String lblbanktransfer = "Bank Transfer";
+  static String lblpaynow = "Pay Now";
+  static String transactionsuccess = "Transaction Success";
+  static String transactions = "Transactions";
+  static String method = "Method";
+  static String amount = "Amount";
+  static String status = "Status";
+  static String date = "Date";
+  static String subscriptions = "Subscriptions";
+  static String savedtexttospeech = "Saved Text to Speech";
+  static String lbldelete = "Delete";
+  static String voicemodulations = "Voice Modulations";
+  static String downloaded = "Successfully Downloaded";
+  static String deleteconfirm = "Are you sure, you want to Delete this TTS ?";
+  static String cleartext = "Clear Text";
+  static String lblstart = "Start";
+  static String clearvoiceeffects = "Clear Voice Effects";
+  static String youhavealreadyupcomingplan =
+      "You already have one Upcoming Plan.";
+  static String upcomingplanstartmsg =
+      "You do not have sufficient characters. Do you want to start your upcoming plan from today?";
+
+  static String madeby = "Made By";
+
+  static String lblnext = "Next";
+
+  static String skipintro = "Skip Intro";
+  static String getpremiumtoday = "Get Premium Today";
+  static String getpremiuminfo = "Get access to all features";
+  static String currentplaninfo = "Current Plan Info";
+  static String activeplan = "Active Plan";
+  static String upcomingplan = "Upcoming Plan";
+  static String tenure = "Tenure";
+  static String overallcharacter = "Overall Characters";
+  static String providers = "Providers";
+  static String lblgoogle = "Google";
+  static String lblaws = "AWS";
+  static String lblazure = "Azure";
+  static String lblibm = "IBM";
+  static String noactiveplanfound = "No Active Plan Found";
+  static String plandetail = 'Plan Detail';
+  static String expiredon = 'Expired On';
+  static String expireson = 'Expires On';
+  static String lblmonths = 'months';
+  static String planduration = 'Plan Duration';
+  static String startfrom = 'Started On';
+  static String charactersusage = 'Characters Usage';
+  static String lblok = 'Ok';
+  static String doubletapexitmsg = 'Double Tap to Exit App';
+  static String lbloops = 'Oops!';
+  static String lblnosavedspeechmsg =
+      'It looks like you haven\'t added \n any speech yet.';
+  static String lbladdbtninfo = 'Tap the \'+\' to add a Speech';
+  static String homeLbl = "Home";
+  static String premiLbl = "Premium";
+  static String profileLbl = "Profile";
+  static String listOfSpeeLbl = "List of Speech";
+  static String lang_lbl = "Language";
+  static String voice_lbl = "Voice";
+  static String sea_lang_lbl = "Search Language";
+  static String sea_voice_lbl = "Search Voice";
+  static String new_lbl = "New";
+  static String lang_lbl1 = "Lang";
+  static String char_lbl = "Char";
+  static String title_lbl = "Title...";
+  static String wr_txt_lbl = "Write your text here";
+  static String speech_title_lbl = "Speech Title";
+  static String speech_lbl = "Speech";
+  static String emphasis_lbl = "Emphasis";
+  static String say_as_lbl = "Say as";
+  static String vol_lbl = "Volume";
+  static String speed_lbl = "Speed";
+  static String pitch_lbl = "Pitch";
+  static String pauses_lbl = "Pauses";
+  static String clear_voi_lbl = "Clear voice";
+  static String dire_bank_transfer_lbl = "Direct Bank Transfer";
+  static String acc_details_lbl = "Account Details:";
+  static String extra_details_lbl = "Extra Details:";
+  static String done_lbl = "Done";
+  static String choose_bank_rece_lbl = "Choose Bank Receipts";
+  static String upload_rece_lbl = "Upload Receipt";
+  static String logout_lbl = "Are you sure you want to logout?";
+  static String no_lbl = "No";
+  static String yes_lbl = "Yes";
+  static String your_receipt = "Your Uploaded Receipt";
+  static String time_period_lbl = "Time Period";
+  static String amt_lbl = "Amount";
+  static String trans_id_lbl = "Transaction Id";
+  static String noteFreeChar_lbl = "Note: For free plan you can use ";
+  static String noteFreeChar_lbl1 = "characters per speech.";
+  static String bottomFreeChar_lbl = "You have reach your";
+  static String bottomFreeChar_lbl1 = "free characters limit. Try premium plan for addition text characters use.";
+}
